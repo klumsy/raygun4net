@@ -1,5 +1,10 @@
-Raygun4Net
+Raygun4NetWithPowerShell
 ==========
+
+Goal
+
+The goal of this project will be to make a PowerShell module with idiomatic PowerShell CMDLETs covering the surface area of Raygun. First with the sending, but as they release a RESTFUL API, also searching and getting the contents of data etc. The goal will be to provide a starting point which they will actually be willing to incorporate back into their raygun4net project.
+
 
 [Raygun.io](http://raygun.io) Provider for .NET Framework
 
